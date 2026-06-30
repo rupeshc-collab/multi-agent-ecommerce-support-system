@@ -53,7 +53,7 @@ Customer Query
 ## Screenshots
 
 ### 1. Orchestrator Configuration
-![Orchestrator Config](./screenshots/01-orchestrator-config-connected-agents.png)
+(./screenshots/01-orchestrator-config-connected-agents.png)
 *Full system design — routing rules, clarification guidelines,
 and all 3 specialists connected*
 
