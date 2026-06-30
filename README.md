@@ -53,27 +53,27 @@ Customer Query
 ## Screenshots
 
 ### 1. Orchestrator Configuration
-![Orchestrator Config](./screenshots/01-orchestrator-config-connected-agents_png.png)
+![Orchestrator Config](./screenshots/01-orchestrator-config-connected-agents.png.png)
 *Full system design — routing rules, clarification guidelines,
 and all 3 specialists connected*
 
 ### 2. Live Routing — Order Status Query
-![Order Routing](./screenshots/02-live-routing-order-status-agent_png.png)
+![Order Routing](./screenshots/02-live-routing-order-status-agent.png.png)
 *Orchestrator identifying intent and routing order #1012
 to Order Status Agent with visible reasoning*
 
 ### 3. Order Status Response
-![Order Response](./screenshots/03-order-status-structured-response_png.png)
+![Order Response](./screenshots/03-order-status-structured-response.png.png)
 *Order Status specialist returning a clean formatted table
 with item, status, carrier, tracking number, and delivery date*
 
 ### 4. Returns & Refunds Response
-![Returns Response](./screenshots/04-returns-agent-step-by-step-response_png.png)
+![Returns Response](./screenshots/04-returns-agent-step-by-step-response.png.png)
 *Returns specialist delivering step-by-step return
 initiation guide after orchestrator handoff*
 
 ### 5. Live Routing — FAQ Query
-![FAQ Routing](./screenshots/05-live-routing-faq-agent_png.png)
+![FAQ Routing](./screenshots/05-live-routing-faq-agent.png.png)
 *Orchestrator routing installment payment question to
 FAQ Agent with transparent reasoning visible*
 
